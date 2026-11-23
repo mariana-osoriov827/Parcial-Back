@@ -5,7 +5,7 @@ Backend en Java + Spring Boot para la gestión de bodegas y sus productos asocia
 ## Requisitos
 
 - Java 17
-- Maven
+- Maven (o usar el wrapper incluido `./mvnw`)
 
 ## Ejecución
 
