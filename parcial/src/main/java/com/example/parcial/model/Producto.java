@@ -10,6 +10,10 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
+
+// id, nombre, descripcion, precio, cantidad
+// bodega: referencia obligatoria a Bodega
+
 public class Producto {
 
     @Id

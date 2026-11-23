@@ -13,6 +13,9 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
+
+// id, nombre, ubicacion
+// Relación: 1 → N
 public class Bodega {
 
     @Id
